@@ -1,5 +1,8 @@
 {
-  "name": "myApp",
-  "integrations": {},
+  "name": "Ionic",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
